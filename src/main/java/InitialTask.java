@@ -6,10 +6,11 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 
 public class InitialTask {
 
-    public  static HashMap<String, String[]> countryCity = new HashMap<>();
+    public  static Map<String, String[]> countryCity = new HashMap<>();
 
 
 
